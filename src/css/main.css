@@ -1,3 +1,5 @@
+
+
 html, body {
   overflow-x: hidden;
 }
@@ -233,6 +235,10 @@ footer a:not(.nav-link) {
   transform: translateY(-2px);
 }
 
+.logo-image {
+ width: 100px;
+ height: 100px;
+}
 .marker {
   position: relative;
   display: inline;

@@ -10,7 +10,7 @@ function ContactSection() {
         <div className="row">
           <div className="col-md-6" data-aos="zoom-in" data-aos-delay="100">
             <div className="bg-light my-2 p-3 pt-2">
-              <form action="https://formspree.io/your@email.com" method="POST">
+              <form action="https://formspree.io/f/mwkdrgko" method="POST">
                 <div className="form-group my-2">
                   <label htmlFor="name" className="form-label fw-bolder">Name</label>
                   <input className="form-control" type="text" id="name" name="name" required />
@@ -36,22 +36,22 @@ function ContactSection() {
             </div>
             <div className="mt-5 px-2">
               <div className="row">
-                <div className="col-sm-2">
+                <div className="col-sm-2 aligns-content-wrap">
                   <div className="pb-1">Email:</div>
                 </div>
                 <div className="col-sm-10">
-                  <div className="pb-1 fw-bolder aligns-content-wrap">super-agency@company.com</div>
+                  <div className="pb-1 fw-bolder aligns-content-wrap">607devlabs@gmail.com</div>
                 </div>
-                <div className="col-sm-2">
+                <div className="col-sm-2 aligns-content-wrap">
                   <div className="pb-1">Skype:</div>
                 </div>
-                <div className="col-sm-10">
+                <div className="col-sm-10 ">
                   <div className="pb-1 fw-bolder aligns-content-wrap">username@skype.com</div>
                 </div>
-                <div className="col-sm-2">
+                <div className="col-sm-2 aligns-content-wrap">
                   <div className="pb-1">Phone:</div>
                 </div>
-                <div className="col-sm-10">
+                <div className="col-sm-10 aligns-content-wrap">
                   <div className="pb-1 fw-bolder aligns-content-wrap">+0718-111-0011</div>
                 </div>
               </div>
