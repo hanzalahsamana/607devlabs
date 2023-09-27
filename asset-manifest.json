@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/607devlabs/static/css/main.1dac4396.css",
+    "main.js": "/607devlabs/static/js/main.a13985ae.js",
+    "static/media/fa-solid-900.svg": "/607devlabs/static/media/fa-solid-900.ca408b63c26d83dbd1e4.svg",
+    "static/media/fa-brands-400.svg": "/607devlabs/static/media/fa-brands-400.bc671f97630e1af81f65.svg",
+    "static/media/fa-solid-900.eot": "/607devlabs/static/media/fa-solid-900.3a24a60e7f9c6574864a.eot",
+    "static/media/fa-solid-900.ttf": "/607devlabs/static/media/fa-solid-900.10ecefc282f2761808bf.ttf",
+    "static/media/fa-regular-400.svg": "/607devlabs/static/media/fa-regular-400.64f4b211d3b0ddac8405.svg",
+    "static/media/fa-brands-400.eot": "/607devlabs/static/media/fa-brands-400.0fea24969112a781acd2.eot",
+    "static/media/fa-brands-400.ttf": "/607devlabs/static/media/fa-brands-400.ec82f282c7f54b637098.ttf",
+    "static/media/bootstrap-icons.woff?": "/607devlabs/static/media/bootstrap-icons.94eeade15e6b7fbed95b.woff",
+    "static/media/fa-solid-900.woff": "/607devlabs/static/media/fa-solid-900.46fdbd2d897f8824e63c.woff",
+    "static/media/fa-brands-400.woff": "/607devlabs/static/media/fa-brands-400.dc2cbadd690e1d4b2c9c.woff",
+    "static/media/bootstrap-icons.woff2?": "/607devlabs/static/media/bootstrap-icons.dfd0ea122577eb61795f.woff2",
+    "static/media/fa-solid-900.woff2": "/607devlabs/static/media/fa-solid-900.3ceb50e7bcafb577367c.woff2",
+    "static/media/fa-brands-400.woff2": "/607devlabs/static/media/fa-brands-400.c967a94cfbe2b06627ff.woff2",
+    "static/media/newlogo.png": "/607devlabs/static/media/newlogo.fe50cdbe1afdb4702307.png",
+    "static/media/fa-regular-400.eot": "/607devlabs/static/media/fa-regular-400.08f9891a6f44d9546678.eot",
+    "static/media/fa-regular-400.ttf": "/607devlabs/static/media/fa-regular-400.1495f578452eb676f730.ttf",
+    "static/media/fa-regular-400.woff": "/607devlabs/static/media/fa-regular-400.1069ea55beaa01060302.woff",
+    "static/media/building_websites.svg": "/607devlabs/static/media/building_websites.d267d42ac348da2e4eb6f8422e46dfc3.svg",
+    "static/media/fa-regular-400.woff2": "/607devlabs/static/media/fa-regular-400.1008b5226941c24f4468.woff2",
+    "static/media/development.svg": "/607devlabs/static/media/development.3cdb61392e1639257689cb84bc6b4a9f.svg",
+    "static/media/creative-team.svg": "/607devlabs/static/media/creative-team.74e81a2fc42b9fe08a9ca807bf121370.svg",
+    "static/media/web-design.svg": "/607devlabs/static/media/web-design.8e1fa84a204659729c9aea8b9f093e94.svg",
+    "static/media/graphic-design.svg": "/607devlabs/static/media/graphic-design.0af6c5f63718477af5538f323ccabb29.svg",
+    "static/media/ui-ux.svg": "/607devlabs/static/media/ui-ux.267c0065bfea463f4d6c979f9382f8d1.svg",
+    "index.html": "/607devlabs/index.html",
+    "static/media/wave-bg.svg": "/607devlabs/static/media/wave-bg.f8fd25a5c457b473d6fe.svg",
+    "static/media/marker.svg": "/607devlabs/static/media/marker.0374ef029839924a782c.svg",
+    "main.1dac4396.css.map": "/607devlabs/static/css/main.1dac4396.css.map",
+    "main.a13985ae.js.map": "/607devlabs/static/js/main.a13985ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dac4396.css",
+    "static/js/main.a13985ae.js"
+  ]
+}
