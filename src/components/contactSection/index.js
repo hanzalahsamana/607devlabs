@@ -42,7 +42,7 @@ function ContactSection() {
                 <div className="col-sm-10">
                   <div className="pb-1 fw-bolder aligns-content-wrap">607devlabs@gmail.com</div>
                 </div>
-                <div className="col-sm-2 aligns-content-wrap">
+                {/* <div className="col-sm-2 aligns-content-wrap">
                   <div className="pb-1">Skype:</div>
                 </div>
                 <div className="col-sm-10 ">
@@ -53,7 +53,7 @@ function ContactSection() {
                 </div>
                 <div className="col-sm-10 aligns-content-wrap">
                   <div className="pb-1 fw-bolder aligns-content-wrap">+0718-111-0011</div>
-                </div>
+                </div> */}
               </div>
             </div>
           </div>

@@ -78,7 +78,7 @@ function WorkWithUs() {
               <div class="col-lg-6 mb-2">
                 <div class="border border-3 rounded px-2 py-2 d-flex align-items-center">
                   <div class="badge bg-success me-2"><i class="fas fa-check"></i></div>
-                  <div class="text-secondary fw-bold">24x7 On-Support</div>
+                  <div class="text-secondary fw-bold">Continuous support</div>
                 </div>
               </div>
             </div>

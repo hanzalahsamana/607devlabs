@@ -46,7 +46,7 @@ function Footer() {
                 New York, NY 50032<br />
                 United States
               </address>
-              <div className="mb-1"><strong>Phone:</strong><br />+0718-111-0011</div>
+              {/* <div className="mb-1"><strong>Phone:</strong><br />+0718-111-0011</div> */}
               <div className="mb-1"><strong>Email:</strong><br />607devlabs@gmail.com</div>
             </div>
           </div>
